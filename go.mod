@@ -16,7 +16,7 @@ require (
 	github.com/libp2p/go-libp2p-routing v0.1.0
 	github.com/libp2p/go-libp2p-tls v0.1.3
 	github.com/libp2p/go-libp2p-yamux v0.5.3
-	github.com/libp2p/go-tcp-transport v0.2.2
+	github.com/libp2p/go-tcp-transport v0.2.4
 	github.com/libp2p/go-ws-transport v0.4.0
 	github.com/nsf/termbox-go v0.0.0-20201124104050-ed494de23a00 // indirect
 	github.com/pion/udp v0.1.1-0.20201216163422-c79b416a74b3
